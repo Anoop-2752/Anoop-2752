@@ -58,5 +58,4 @@ I'm a data enthusiast passionate about leveraging Data Science, Python, and SQL 
 [linkedin]: https://www.linkedin.com/in/anoopkrishna2752/
 [twitter]: https://x.com/AnoopKr20788928
 [Instagram]: https://www.instagram.com/codewithak_/
-[YouTube]: https://www.youtube.com/dswithbappy
 [LeetCode]: https://leetcode.com/u/AnoopkrishnaAK/
