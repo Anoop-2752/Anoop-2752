@@ -1,94 +1,123 @@
-# Hey, I'm Anoop Krishna 👋
+<div align="center">
 
-**AI Engineer** · Deep Learning · Computer Vision · Automotive AI
+```
+╔═══════════════════════════════════════════════════════╗
+║   BUILDING AI THAT MOVES — LITERALLY.                 ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-I build intelligent systems that bridge the gap between cutting-edge AI research and real-world applications — with a deep interest in **Automotive AI**, including autonomous perception, sensor fusion, and vehicle intelligence. Currently working as a Data Scientist at Rubixe, Bengaluru, where I develop GenAI solutions and production-grade LLM integrations.
+# Anoop Krishna
 
-I'm driven by the idea of AI that moves — literally. From ADAS pipelines to real-time object detection on edge devices, I'm focused on making machines see, decide, and act.
+**AI Engineer · Computer Vision · Automotive AI**
 
----
+*From Kerala, India — building intelligent systems at the edge of perception and motion.*
 
-## 🔭 What I'm Working On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoopkrishna2752/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/AnoopKr20788928)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnoopkrishnaAK/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:anoopkrishna.k9@gmail.com)
 
-- **Multi-Agent Research System** — A production-level report generation pipeline built with LangGraph, showcasing agentic AI architecture and orchestration.
-- **Parsely** — A food scanning app that analyzes ingredient labels for health impact using CV and NLP.
-- **SEO Lens** — A Chrome extension for real-time on-page SEO analysis.
-
----
-
-## 🧠 Core Interests
-
-- **Autonomous Driving & ADAS** — Perception systems, lane detection, object tracking
-- **Computer Vision** — Real-time detection, segmentation, depth estimation
-- **Sensor Fusion** — Camera + LiDAR + Radar data integration
-- **Edge AI & Embedded ML** — Model optimization for deployment on constrained hardware
-- **Generative AI & LLMs** — Agentic workflows, RAG pipelines, multi-model orchestration
-- **MLOps** — End-to-end ML lifecycle, CI/CD for models, monitoring & drift detection
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> whoami`
 
-**Languages:** Python · SQL · C++ (basics) · Bash
+I build AI systems that don't just run on servers — they **see**, **decide**, and **act** in the real world. My focus sits at the intersection of **computer vision**, **LLMs**, and **automotive intelligence** — the kind of AI that has to work at 120 km/h with zero margin for error.
 
-**ML / DL:** PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · ONNX
-
-**Computer Vision:** OpenCV · YOLO · MediaPipe · Detectron2
-
-**GenAI / LLMs:** LangChain · LangGraph · CrewAI · RAG Pipelines · Prompt Engineering
-
-**Data:** Pandas · NumPy · Matplotlib · Seaborn · Plotly
-
-**Databases:** MySQL · MongoDB · Vector DBs (ChromaDB, FAISS)
-
-**DevOps / MLOps:** Docker · Git · GitHub Actions · Flask · FastAPI · Streamlit
-
-**Embedded / Edge:** Arduino · Raspberry Pi · Microcontrollers
-
-**Tools:** Postman · Linux · VS Code · Cursor IDE
-
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
-
-
+Currently exploring GenAI pipelines and LLM integrations, while shipping real products on the side.
 
 ---
 
-## 🚗 Why Automotive AI?
+## `> current_projects`
 
-The automotive industry is at an inflection point — where deep learning, real-time perception, and edge computing converge to redefine mobility. I'm passionate about contributing to this space because it demands the tightest integration of CV, sensor data, and reliable decision-making under real-world constraints. Whether it's building robust object detection models for ADAS or optimizing inference for in-vehicle compute, this is where I want to make an impact.
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoopkrishna2752/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnoopKr20788928)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnoopkrishnaAK/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithak_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoopkrishna.k9@gmail.com)
+| Project | Stack | Status |
+|---|---|---|
+| **Multi-Agent Research System** | LangGraph · Groq · Tavily | 🟢 Live |
+| **Production RAG Pipeline** | FAISS · RAGAS · LangSmith · Streamlit | 🟢 Live |
+| **Real-Time Driver Safety System** | YOLOv8 · MediaPipe · OpenCV | 🟢 Live |
+| **Parsely** — food ingredient analyzer | CV · NLP · OCR | 🔨 Building |
+| **Quickkit** — browser-based dev toolkit | React · Vite · Tailwind | 🚀 Launched |
 
 ---
 
-*Based in India · Open to AI/ML Engineer roles · Let's build something that moves.*
+## `> tech_stack`
 
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**ML / DL / CV**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**GenAI / LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6B21A8?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logoColor=white)
+
+**Infra / DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Edge / Embedded**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+---
+
+## `> why_automotive_ai`
+
+```
+The automotive industry is at an inflection point.
+
+Deep learning  +  real-time perception  +  edge compute
+         =  a complete redefinition of mobility.
+
+This demands the tightest integration of CV, sensor data,
+and reliable decision-making — under real-world constraints,
+at real-world speeds, with real-world consequences.
+
+That's the problem space I want to live in.
+```
+
+**Domain Focus:** ADAS · Perception Systems · Sensor Fusion (Camera + LiDAR + Radar) · Lane Detection · Object Tracking · Edge Inference Optimization
+
+---
+
+## `> interests`
+
+```
+autonomous_driving     ██████████  active
+computer_vision        ██████████  active
+generative_ai          █████████░  active
+mlops                  ████████░░  growing
+edge_ml                ███████░░░  growing
+sensor_fusion          ██████░░░░  exploring
+```
+
+---
+
+<div align="center">
+
+*Open to AI/ML Engineer roles · Available immediately*
+
+**`anoopkrishna.k9@gmail.com`**
+
+</div>
