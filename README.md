@@ -6,7 +6,7 @@
 
 **AI Engineer · Computer Vision · Automotive AI**
 
-*From Kerala, India — building intelligent systems at the edge of perception and motion.*
+* Building intelligent systems at the edge of perception and motion.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoopkrishna2752/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/AnoopKr20788928)
